@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+    modId="commandexporter"
+    version="1.3.3-Release"
+    displayName="Command Exporter"
+    description="Собирает команды с аргументами с сервера.\nДля использования введите команду \"/exportcmds\""
+    side="CLIENT"
